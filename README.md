@@ -1,4 +1,4 @@
-Software Engineering Lab assignment
+# Software Engineering Lab assignment
 
 Group 4 (A1)
 
